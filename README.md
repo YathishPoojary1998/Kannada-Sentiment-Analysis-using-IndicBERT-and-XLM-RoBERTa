@@ -142,15 +142,6 @@ Prediction pipeline implemented in .
 
 ---
 
-## 📈 Training Insight
-
-From the paper:
-
-* Training loss decreased from **0.803 → 0.5005** (see graph on page 6) 
-* Shows effective convergence of the model
-
----
-
 ## 🔍 Example
 
 Input:
